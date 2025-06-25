@@ -1,0 +1,6 @@
+# Ignore everything
+.
+
+# Except these files
+!.gitignore
+!ft_RPI_sa_Controller_S32K146.srec
