@@ -41,3 +41,10 @@ Thanks to Geoff for granting me the permission to adapt his beautiful MMBasic in
  - https://geoffg.net/micromite.html
  - Copyright 2011-2024 Geoff Graham
  - Copyright 2016-2024 Peter Mather
+
+MMBasic enhancements and modifications related to ft-RPI-sa hardware:
+- Copyright 2022-2025 Robert Lippmann (ft.mcu.prj@gmail.com)
+  
+ft-RPI-sa Hardware:
+
+- Copyright 2022-2025 Robert Lippmann (ft.mcu.prj@gmail.com)
