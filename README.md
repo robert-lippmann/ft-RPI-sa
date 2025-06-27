@@ -1,12 +1,12 @@
 # ft-RPI-sa
-The ft-RPI-sa controller is a versatile enhancement developed to control models primarily built with fischertechnik but can be also used with Lego or any other kind of technical toy, limited to 12V supply and I/O voltage.
-It consists of the main compute board (aka mainboard), covering all the required logic circuitry, and an additional I/O board with all the inputs and outputs to connect to the model. The I/O board feature standard mini-banana-plug connectors with a diameter of 2.5mm. The mainboard can be optionally used as a Raspberry Pi HAT and is supplied by either a battery set or an external 9V power supply.
+The ft-RPI-sa controller is a versatile enhancement, developed to control models primarily built with fischertechnik but can be also used with Lego or any other kind of technical toy, limited to 12V supply and I/O voltage.
+It consists of the main compute board (aka mainboard), covering all the required logic circuitry, and an additional I/O board with all the inputs and outputs to connect to the model. The I/O board features standard mini-banana-plug connectors with a diameter of 2.5mm. The mainboard can  optionally be used as a Raspberry Pi HAT and is supplied by either a battery set or an external 9V power supply.
 
 # Mainboard V2.1 Top View
-<img src="doc/Images/Mainboard_V2.1_Top.png" height="500" alt="Mainboard V2.1 Top view">
+<img src="doc/Images/Mainboard_V2.1_Top.png" height="300" alt="Mainboard V2.1 Top view">
 
 # Mainboard V2.1 Bottom View
-<img src="doc/Images/Mainboard_V2.1_Bottom.png" height="500" alt="Mainboard V2.1 Bottom view">
+<img src="doc/Images/Mainboard_V2.1_Bottom.png" height="300" alt="Mainboard V2.1 Bottom view">
 
 # I/O Board Top View
 <img src="doc/Images/IO-Board_Top.png" height="200" alt="I/O Board Top view">
@@ -37,7 +37,7 @@ It consists of the main compute board (aka mainboard), covering all the required
 
 MMBasic interpreter:
 
-Thanks to Geoff for granting me the permission to adapt his beautiful MMBasic interpreter to this hardware project.
+Thanks to Geoff for granting me the permission to adapt his beautiful MMBasic interpreter to this hardware project and go public with it.
  - https://geoffg.net/micromite.html
  - Copyright 2011-2024 Geoff Graham
  - Copyright 2016-2024 Peter Mather
